@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script type="text/javascript" src="js/library/jquery/jquery-1.8.3.min.js"></script>
+		<title>我的博客搭建笔记</title>
+	</head>
+	<body>
+		  <div style="text-algin:center;vertical-align:center;position:absolute;top:50%;left:50%;width:800px;height:600px;margin-top:-300px;margin-left:-400px;background-color:gray;">
+          我的博客搭建笔记
+      </div>
+	</body>
+</html>
